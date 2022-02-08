@@ -5,7 +5,7 @@
     --white-color: #dff3e4;
 }
 
-/* Affect the entire document  */
+/* Affect the entire document  */ 
 body {
     color: var(--dark-color);
 }
